@@ -1,31 +1,32 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY FAISAL
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ GOPAY AJA
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ GOPAY AJA
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ GOPAY AJA
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ GOPAY AJA
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0858 7706 4290
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ GOPAY AJA
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ GOPAY AJA
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama AHMAD FAISAL
 
 *📲 PULSA*
 
-Tidak tersedia
+INDOSAT 
+       ㅁ 0858 7706 4290
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
